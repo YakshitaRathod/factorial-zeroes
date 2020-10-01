@@ -17,7 +17,7 @@ int count_zeros(long number)
 	return count;
 }
 
-int main (void) {
+int main {
     
 	long number;
 	long count;
